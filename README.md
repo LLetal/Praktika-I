@@ -4,3 +4,6 @@ Skripty napsané v pythonu, které používám pro zpracování dat měření. V
 **Skripty by měly sloužit hlavně jako inspirace pro lidi, co by chtěli praktika dělat v pythonu, i když je to celkem atomovka na velryby.**
 
 **V případě dotazů pište na messenger, je tam největší pravděpodobnost, že odpovím**
+
+# Poznámky k programům
+**Knihovně uncertainties je třeba zadávat absolutní chyby ve správných jednotkách**
