@@ -1,0 +1,11 @@
+\begin{tabular}{lrr}
+\toprule
+Materiál &  Lineární koeficient &  Výsledný koeficient alfa \\
+\midrule
+   Mosaz &             0.011042 &                  0.000018 \\
+  Hliník &             0.013321 &                  0.000022 \\
+     Mìï &             0.010255 &                  0.000017 \\
+    Ocel &             0.006709 &                  0.000011 \\
+    Sklo &             0.003200 &                  0.000005 \\
+\bottomrule
+\end{tabular}
